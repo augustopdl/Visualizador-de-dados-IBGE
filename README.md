@@ -1,7 +1,7 @@
 # Visualizador de Dados IBGE
 
 <div align="center">
-  <img src="images/dashboard.png" alt="Visualização do Dashboard" width="600">
+  <img src="images/dashboard.jpg" alt="Visualização do Dashboard" width="600">
 </div>
 
 Este projeto Python utiliza técnicas de webscraping com Selenium e PyAutoGUI para extrair dados de crescimento populacional e pirâmide etária do site do IBGE. Os dados são processados e visualizados de forma interativa utilizando as bibliotecas Pandas, Streamlit e Altair, proporcionando uma análise dinâmica e detalhada das tendências demográficas do Brasil.
